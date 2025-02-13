@@ -8,6 +8,7 @@ No requirements other than Rebar Framework.
 
 ## Features
 
+-   Should (?) be lightweight, it's only Vue and TailwindCSS.
 -   It's a speedometer. You can change the top speed, I guess?
 -   Defaults to km/h. TODO: Include mph.
 
